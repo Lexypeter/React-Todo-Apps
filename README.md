@@ -1,1 +1,1 @@
-Stay organized and boost your productivity with my To-Do App! 📝✅ This simple yet powerful task manager helps you keep track of your daily tasks, mark completed ones, and stay focused on your goals. Whether you're planning your day or managing long-term projects, this app makes it easy to stay on top of everything. Try it out and streamline your workflow!"
+My Final project for Ai tech software engineering. A simple but functional App to keep track of our daily activities
