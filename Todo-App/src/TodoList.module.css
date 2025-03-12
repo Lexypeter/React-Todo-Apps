@@ -7,6 +7,7 @@
   margin: 0 auto;
   padding: 20px;
   margin-top: 50px;
+  background-color: red;
 }
 
 @media (max-width: 1023px) {
@@ -29,3 +30,4 @@
     margin-top: 20px;
   }
 }
+

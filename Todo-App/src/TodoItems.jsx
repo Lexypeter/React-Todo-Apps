@@ -13,8 +13,9 @@ const TodoItems = ({item, todos, setTodos}) => {
     console.log(todos)
   }
   const className = item.done  ? styles.className : ""
+  
   return (
-    <div className={styles.item}>
+    <div className={styles.hide} >
       <div key={Math.random()} className={styles.itemName}> <span onClick={()=>handleclick(item.name)} className={className}>   {item.name} </span>
     <span>
       <button className={styles.delete} onClick={()=>handleDelete(item)}>X</button>

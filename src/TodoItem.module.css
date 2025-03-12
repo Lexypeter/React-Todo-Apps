@@ -4,6 +4,7 @@
   color: #353935;
   font-size: 20px;
   margin: 0 auto;
+  
 }
 
 .itemName {
@@ -13,6 +14,7 @@
 
 .line {
   border: 1px solid #f4f4f4;
+  
 }
 
 .delete {

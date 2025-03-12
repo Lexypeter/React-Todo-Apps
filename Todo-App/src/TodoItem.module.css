@@ -9,8 +9,11 @@
 .itemName {
   font-weight: bold;
   padding: 20px;
+  
 }
-
+.hide{
+  display: none;
+}
 .line {
   border: 1px solid #f4f4f4;
 }
